@@ -4,7 +4,7 @@
 
    # Do not use this in production. Sample purpose only.
 
-   # Author: Dr. Petros Panagiotidis
+   # Author: drpetros1111@gmail.com
    # Additional Authors:
    # <your GitHub username>
 
